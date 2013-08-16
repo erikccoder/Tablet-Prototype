@@ -1,0 +1,1 @@
+node ~/Documents/workspace/r.js -o //Users/ericyang/Downloads/Browser/scmp-prototype2-3/scmp-prototype3/app.build.js
